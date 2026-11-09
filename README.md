@@ -431,8 +431,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **👤Author:** Ayush Saxena
 
-- 💼 **LinkedIn:** [Ayush Saxena](https://www.linkedin.com/in/ayushsaxena8880/)
-- 🐙 **GitHub:** [iamAyushSaxena](https://github.com/iamAyushSaxena)
+- 💼 **LinkedIn:** [Ayush Saxena](https://www.linkedin.com/in/iamayushsaxena/)
+- 🐙 **GitHub:** [iamayushsaxena](https://github.com/iamayushsaxena)
 - 📧 **Email:** aysaxena8880@gmail.com
 
 ---
@@ -449,13 +449,10 @@ If you found this project helpful or impressive, please consider:
 
 **⭐ Star this repository if you found it valuable!**
 
-**💬 Questions? [Open an issue](https://github.com/iamAyushSaxena/user-research-product-spec/issues)**
+**💬 Questions? [Open an issue](https://github.com/iamayushsaxena/user-research-product-spec/issues)**
 
-**🤝 Feedback? [Start a discussion](https://github.com/iamAyushSaxena/user-research-product-spec/discussions)**
+**🤝 Feedback? [Start a discussion](https://github.com/iamayushsaxena/user-research-product-spec/discussions)**
 
 ---
 
 *Built with ❤️ to demonstrate PM skills for career transition*
-
-
-
